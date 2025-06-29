@@ -1,0 +1,14 @@
+{
+  "name": "wax-login-anchor",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "anchor-link": "^3.0.0",
+    "anchor-link-browser-transport": "^3.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}

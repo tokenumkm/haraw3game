@@ -1,0 +1,1 @@
+// Placeholder: waxjs.js harus diganti dengan versi CSP-safe dari WaxJS.
