@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Login WAX Wallet</title>
+  <script type="module" src="main.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      margin-top: 100px;
+    }
+    button {
+      padding: 12px 20px;
+      font-size: 16px;
+      margin: 10px;
+      background-color: #444;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+    #output {
+      margin-top: 30px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Login ke WAX Wallet</h1>
+  <button id="anchorLogin">🔐 Login dengan Anchor</button>
+  <button id="wcwLogin">🌐 Login dengan WAX Cloud Wallet</button>
+  <p id="output">Belum login</p>
+</body>
+</html>
